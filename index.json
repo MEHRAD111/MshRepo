@@ -1,10 +1,10 @@
 {
   "calculator": {
-    "url": "https://raw.githubusercontent.com/MEHRAD111/MshRepo/main/calculator.pn"
+    "url": "https://raw.githubusercontent.com/MEHRAD111/MshRepo/main/calculator.sh"
   }
 }
 {
   "backuper": {
-    "url": "https://raw.githubusercontent.com/MEHRAD111/MshRepo/main/backuper.pn"
+    "url": "https://raw.githubusercontent.com/MEHRAD111/MshRepo/main/backuper.sh"
   }
 }
