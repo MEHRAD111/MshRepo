@@ -1,6 +1,8 @@
 #!/bin/bash
 # Calculator for msh
-
+#ENV
+Branch=Stable
+Version=1.0.0
 echo "Welcome to calculator! Let's start"
 
 read -p "Which operation do you want to do? (+ - * /): " operation
