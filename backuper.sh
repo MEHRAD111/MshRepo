@@ -1,4 +1,7 @@
 #!/bin/bash
+#ENV
+Branch=Stable
+Version=2.5.0
            echo "Welcome to MshBackuper!"
             echo "
 ______  ___      ______     ________             ______
