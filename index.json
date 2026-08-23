@@ -8,3 +8,13 @@
     "url": "https://raw.githubusercontent.com/MEHRAD111/MshRepo/main/backuper.sh"
   }
 }
+{
+  "avi": {
+    "url": "https://raw.githubusercontent.com/MEHRAD111/MshRepo/main/Auto-Vmware-Tools-Install-Linux.sh"
+  }
+}
+{ 
+  "avr": {
+    "url": "https://raw.githubusercontent.com/MEHRAD111/MshRepo/main/Auto-Remove-VmWare-Tools-Linux.sh"
+  }
+}
