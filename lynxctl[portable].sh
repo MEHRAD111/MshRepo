@@ -3,6 +3,8 @@
 #Portable Version
 #Designed For Msh
 #Designer:MPC(Mehrad PC.)
+Version=3
+Branch=Stable
 case "$1" in
 up)
 #!/bin/bash
