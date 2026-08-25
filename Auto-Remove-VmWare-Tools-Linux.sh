@@ -1,7 +1,8 @@
 #!/bin/bash
 
 # Auto-Remove-VMware-Tools-Linux.sh
-
+Version=2
+Branch=Stable
 # Check root
 if [[ $EUID -ne 0 ]]; then
   echo "Please run this script as root (sudo)."
