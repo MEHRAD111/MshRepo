@@ -18,3 +18,8 @@
     "url": "https://raw.githubusercontent.com/MEHRAD111/MshRepo/main/Auto-Remove-VmWare-Tools-Linux.sh"
   }
 }
+{
+  "lynxctl": {
+    "url": "https://raw.githubusercontent.com/MEHRAD111/MshRepo/refs/heads/main/lynxctl%5Bportable%5D.sh"
+  }
+}
