@@ -1,7 +1,8 @@
 #!/bin/bash
 
 #Auto-Vmware-Tools-Install-Linux
-
+Version=3
+Branch=Stable
 read -p "Do you want to continue? (yes/no): " answer
 if [ "$answer" != "yes" ]; then
   echo "Installation canceled."
